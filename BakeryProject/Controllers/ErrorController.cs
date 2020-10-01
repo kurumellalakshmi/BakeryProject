@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace BakeryProject.Controllers
 {
-    public class ProductController : Controller
+    public class ErrorController : Controller
     {
         public IActionResult Index()
         {
